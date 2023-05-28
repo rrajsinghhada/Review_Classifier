@@ -1,12 +1,12 @@
 # Sentiment-Analysis | NLP
 
-##Goal 
+## Goal 
 To create a robust machine learning model utilizing natural language processing (NLP) that analyzes user-uploaded reviews to determine their sentiment (positive or negative) and generates appropriate responses accordingly.
 
-##Dataset
+## Dataset
 I employed reviews sourced from a restaurant website to train my model and was pleasantly surprised to discover its remarkable performance, even when handling reviews unrelated to the restaurant domain.
 
-##Overview 
+## Overview 
 ________________________________________________________________________________________________
 * I leveraged NLTK to conduct preprocessing, eliminating stopwords (words that do not contribute to sentiment analysis) while also removing non-alphabetic symbols and numbers. Subsequently, all text was transformed to lowercase for consistency.
 
