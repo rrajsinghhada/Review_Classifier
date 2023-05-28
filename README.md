@@ -18,8 +18,8 @@ I employed reviews sourced from a restaurant website to train my model and was p
 
 1. Clone the project:
 ```
-$ git clone https://github.com/rrajsinghhada/Sentiment-Analysis | NLP
-$ cd Sentiment-Analysis | NLP
+$ git clone https://github.com/rrajsinghhada/Sentiment-Analysis-NLP
+$ cd Sentiment-Analysis-NLP
 ```
 2. Install the required dependencies by running the following command:
 ```
